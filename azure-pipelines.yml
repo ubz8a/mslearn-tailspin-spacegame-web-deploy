@@ -153,3 +153,4 @@ stages:
       inputs:
         testResultsFormat: JUnit
         testResultsFiles: JUnit.xml
+        
